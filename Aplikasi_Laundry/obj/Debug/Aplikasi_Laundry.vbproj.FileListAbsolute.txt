@@ -1,0 +1,68 @@
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.exe
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.pdb
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.xml
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\ResolveAssemblyReference.cache
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Resources.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.vbproj.GenerateResource.Cache
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.exe
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.xml
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.pdb
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FAnggota.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPegawai.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FJabatan.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FKonsumen.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPenyerahanCucian.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPengembalianCucian.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FCucian.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FMenu.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FUsers.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLogin.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FFilterLaporan.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLaporan.resources
+D:\Mine\VS 2008\Source Code Jual\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Splashscreen.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.exe
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.xml
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.pdb
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.exe
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.pdb
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.xml
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FAnggota.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FCucian.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FFilterLaporan.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FJabatan.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FKonsumen.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLaporan.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLogin.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FMenu.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPegawai.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPengembalianCucian.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPenyerahanCucian.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FUsers.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Resources.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Splashscreen.resources
+C:\Users\user\Desktop\Visual 03 Project\bbb\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.exe
+C:\Users\user\Desktop\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.xml
+C:\Users\user\Desktop\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.pdb
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.exe
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.xml
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.pdb
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.exe
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.pdb
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\bin\Debug\Aplikasi_Laundry.xml
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FAnggota.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FCucian.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FFilterLaporan.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FJabatan.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FKonsumen.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLaporan.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FLogin.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FMenu.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPegawai.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPengembalianCucian.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FPenyerahanCucian.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.FUsers.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Resources.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.Splashscreen.resources
+C:\Users\user\Desktop\Semester 4\Project VB.net ((Mahar-Arfan-Firdaus))\Aplikasi_Laundry\Aplikasi_Laundry\Aplikasi_Laundry\obj\Debug\Aplikasi_Laundry.vbproj.GenerateResource.Cache
